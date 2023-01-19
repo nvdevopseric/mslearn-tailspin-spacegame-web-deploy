@@ -1,3 +1,4 @@
+# Running load test
 trigger:
 - '*'
 
