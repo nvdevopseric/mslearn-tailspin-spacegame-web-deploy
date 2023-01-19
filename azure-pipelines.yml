@@ -1,4 +1,4 @@
-# Updated the stages
+# Updated the stages and push
 trigger:
 - '*'
 
